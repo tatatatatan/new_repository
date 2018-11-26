@@ -1,0 +1,7 @@
+# coding:shift-jis
+
+num = int(input("”š‚ÍH"))
+if num % 2 == 0:
+	print("‹ô”‚Å‚·")
+else:
+	print("Šï”‚Å‚·")
